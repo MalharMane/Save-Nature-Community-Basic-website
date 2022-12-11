@@ -1,0 +1,33 @@
+.vcenter{
+    margin: auto;
+   
+}
+
+.title{
+    font-family: cursive;
+    color: rgb(52, 170, 111);
+    font-size: 250%;
+    
+}
+
+.font{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(57, 148, 34);
+}
+
+.text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.contenttext{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.backcolor1{
+    background-color: rgb(238, 229, 225);
+}
+
+.backcolor2{
+    background-color: rgb(224, 245, 219);
+}
